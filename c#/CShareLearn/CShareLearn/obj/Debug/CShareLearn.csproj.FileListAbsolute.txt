@@ -1,0 +1,7 @@
+C:\Users\bauti\Documents\CodeLearn\c#\CShareLearn\CShareLearn\bin\Debug\CShareLearn.exe.config
+C:\Users\bauti\Documents\CodeLearn\c#\CShareLearn\CShareLearn\bin\Debug\CShareLearn.exe
+C:\Users\bauti\Documents\CodeLearn\c#\CShareLearn\CShareLearn\bin\Debug\CShareLearn.pdb
+C:\Users\bauti\Documents\CodeLearn\c#\CShareLearn\CShareLearn\obj\Debug\CShareLearn.csproj.AssemblyReference.cache
+C:\Users\bauti\Documents\CodeLearn\c#\CShareLearn\CShareLearn\obj\Debug\CShareLearn.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Documents\CodeLearn\c#\CShareLearn\CShareLearn\obj\Debug\CShareLearn.exe
+C:\Users\bauti\Documents\CodeLearn\c#\CShareLearn\CShareLearn\obj\Debug\CShareLearn.pdb
