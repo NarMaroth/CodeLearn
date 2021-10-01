@@ -1,0 +1,3 @@
+Heap: stay alocated during the program duration
+
+stack: get deleted after out of scope
