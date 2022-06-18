@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3012c6a-d070-42c3-bc0b-3250b0b500df": {
+      "ProjectGuid": "d3012c6a-d070-42c3-bc0b-3250b0b500df",
+      "DisplayName": "CShareLearn",
+      "ColorIndex": 0
+    },
+    "a515e3f7-bd1c-422e-a32b-a7bdfcab91b9": {
+      "ProjectGuid": "a515e3f7-bd1c-422e-a32b-a7bdfcab91b9",
+      "DisplayName": "Async_and_Await",
+      "ColorIndex": 1
+    },
+    "c5af1d8b-9461-4be4-879d-6ad88a080509": {
+      "ProjectGuid": "c5af1d8b-9461-4be4-879d-6ad88a080509",
+      "DisplayName": "Switch_Expressions",
+      "ColorIndex": 2
+    },
+    "50558a9b-48c2-4699-865e-d5cae88e63fe": {
+      "ProjectGuid": "50558a9b-48c2-4699-865e-d5cae88e63fe",
+      "DisplayName": "Using_Declaration",
+      "ColorIndex": 3
+    },
+    "9b79c924-270b-40d5-9670-ca34f98f0f94": {
+      "ProjectGuid": "9b79c924-270b-40d5-9670-ca34f98f0f94",
+      "DisplayName": "Indices_and_Ranges",
+      "ColorIndex": 4
+    },
+    "c6a3b9eb-cd29-4970-af36-ef31422ded31": {
+      "ProjectGuid": "c6a3b9eb-cd29-4970-af36-ef31422ded31",
+      "DisplayName": "Null_Coalescing_Assigmments",
+      "ColorIndex": 5
+    },
+    "0a8627e1-4001-40c7-be8d-cc9342552af6": {
+      "ProjectGuid": "0a8627e1-4001-40c7-be8d-cc9342552af6",
+      "DisplayName": "Test_Linq",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

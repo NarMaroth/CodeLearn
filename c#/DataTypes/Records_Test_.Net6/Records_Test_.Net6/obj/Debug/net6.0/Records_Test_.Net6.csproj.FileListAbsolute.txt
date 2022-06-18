@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\bin\Debug\net6.0\Records_Test_.Net6.exe
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\bin\Debug\net6.0\Records_Test_.Net6.deps.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\bin\Debug\net6.0\Records_Test_.Net6.runtimeconfig.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\bin\Debug\net6.0\Records_Test_.Net6.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\bin\Debug\net6.0\ref\Records_Test_.Net6.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\bin\Debug\net6.0\Records_Test_.Net6.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.AssemblyInfo.cs
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\ref\Records_Test_.Net6.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\DataTypes\Records_Test_.Net6\Records_Test_.Net6\obj\Debug\net6.0\Records_Test_.Net6.genruntimeconfig.cache

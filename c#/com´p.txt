@@ -1,0 +1,13 @@
+print() = console.WriteLine("");
+
+x = input("Inserte un num") = string num;
+			      console.writeline("Inserte un num");
+			      num = console.readline();
+
+x = int(input("Inserte un num")) => int x = convert.ToINT32(console.readline())	
+							 16
+							 64
+
+int x = 10;
+double y = 20;
+Console.WriteLine("x = {0}; y = {1}", x, y);

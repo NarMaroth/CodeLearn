@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\bin\Debug\net6.0\Indices_and_Ranges.exe
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\bin\Debug\net6.0\Indices_and_Ranges.deps.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\bin\Debug\net6.0\Indices_and_Ranges.runtimeconfig.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\bin\Debug\net6.0\Indices_and_Ranges.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\bin\Debug\net6.0\ref\Indices_and_Ranges.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\bin\Debug\net6.0\Indices_and_Ranges.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\Indices_and_Ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\Indices_and_Ranges.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\Indices_and_Ranges.AssemblyInfo.cs
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\Indices_and_Ranges.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\Indices_and_Ranges.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\ref\Indices_and_Ranges.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\Indices_and_Ranges.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Indices_and_Ranges\obj\Debug\net6.0\Indices_and_Ranges.genruntimeconfig.cache

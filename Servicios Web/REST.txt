@@ -1,0 +1,10 @@
+		 Representational State Transfer (REST)
+
+ Es cualquier interfaz entre sistemas que use HTTP para obtener datos o generar operaciones
+sobre esos datos en todos los formatos posibles, xml y json.
+
+ URI (Unifor Resource Identifier): Es una cadena de caracteres que identifica los recursos de
+una red de forma univoca.
+ La diferencia con un Localizador de Recursos Uniforme (URL) es que estos ultimos hacen referencia
+a recursos que pueden variar en el tiempo.
+	

@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\bin\Debug\net6.0\Test_Linq.exe
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\bin\Debug\net6.0\Test_Linq.deps.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\bin\Debug\net6.0\Test_Linq.runtimeconfig.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\bin\Debug\net6.0\Test_Linq.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\bin\Debug\net6.0\ref\Test_Linq.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\bin\Debug\net6.0\Test_Linq.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.AssemblyInfo.cs
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\ref\Test_Linq.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Test_Linq\obj\Debug\net6.0\Test_Linq.genruntimeconfig.cache

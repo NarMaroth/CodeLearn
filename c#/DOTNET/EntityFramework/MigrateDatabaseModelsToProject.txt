@@ -1,0 +1,11 @@
+Full Command:
+Scaffold-DbContext "Conection String" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OuputDir Model
+
+Command Parts:
+Scaffold-DbContext "Conection String" Microsoft.EntityFrameworkCore.SqlServer 
+-ContextDir Data (Carpeta donde se generara el DbContext)
+-OuputDir Model (Carpeta donde se generaran los modelos de la DDBB)
+
+-DataAnnptation (Los modelos tendran los tag que determinan sus caracteristicas en la DDBB)
+		(Si no se añade este flag estas caracteristicas no se indicaran en los 
+		modelos sino que se lo hara en el DbContext)		

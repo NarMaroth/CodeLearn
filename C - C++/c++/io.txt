@@ -1,0 +1,1 @@
+cin.getline("Var"); asigna toda la line ingresada a la var.

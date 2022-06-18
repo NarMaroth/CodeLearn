@@ -1,0 +1,34 @@
+
+context = databasecontext
+
+// añadir a una tabla
+
+Product tomatoSauce = new product()
+{
+	Name="Tomato Sauce",
+	Price=10,99
+};
+
+context.Product.Add(tomatoSauce)
+
+
+// Actualiza elemento en una tabla
+
+var product = context.Products.where(x=> x.name.equal("Tomato Sauce")).FirstOrDefault();
+if(product is Product)
+{
+	product.price = 20;
+}
+
+context.SaveChanges();
+
+
+// Eliminar elemento de una tabla:
+
+var product = context.Products.where(x=> x.name.equal("Tomato Sauce")).FirstOrDefault();
+if(product is Product)
+{
+	context.Remove(product);
+}
+
+context.SaveChanges();

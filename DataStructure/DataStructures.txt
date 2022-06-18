@@ -1,0 +1,96 @@
+
+
+STACK:
+
+    - LIFO
+
+
+QUEUE:
+
+    - FIFO
+
+
+PRIORITY QUEUE:
+
+    - FIFO que entrega primero elementos con mayor prioridad 
+
+
+LINKED LIST:
+
+    - Conjunto de nodos los cuales cada uno pose la direccion del siguiente nodo; 
+    salvo el ultimo que apunta a nada(null)
+
+    - buscar dato tarda O(n)
+    - insertar o eleminar data tarda O(1)
+
+
+DYNAMIC ARRAYS:
+
+    - StaticArray el cual al necesitar una capacidad mayor, genera otra 
+    StaticArray con (por lo general) el doble de capacidad que la anterior, y copia
+    los valores del array anterior a esta nueva array. 
+      Si se desea Reducir la capacidad para no ocupar espacio que no se esta usando 
+    se hace lo mismo pero generando una array con una capacidad menor a la anterior.
+
+    - buscar dato tarda O(1)
+    - insertar o eleminar data tarda O(n)
+
+
+HASH TABLES:
+
+    - Almacena valores con sus keys
+    - Es rapido para añadir , buscar  o borrar data de este
+    - no es conveniente para almacenar pocos datos sino muchos
+
+
+ADJACENCY MATRIX:
+
+    - matriz que indica la relacion de un nodo hacia otro
+    - para leer la informacion es O(1) ya que simplemente se accede a la columna y fila de la matriz
+    - en cuanto al espacio ocupado es de o(x^2) 
+
+    Ej:
+       A  B  C  D  E
+    A  0  1  0  0  0     
+    B  0  0  1  0  1
+    C  0  0  0  1  1
+    D  0  0  0  0  0
+    E  1  0  1  0  0
+
+
+ADJACENCY LIST:
+
+    - array de listas que contiene la relacion de cada nodo hacia otro nodo
+    - para leer la informacion es O(v) v siendo la cantidad relaciones que tenga el nodo
+    - cuanto al espacio ocupado es de o(x+v) cantidad de nodos + relaciones entre estos
+    Ej:
+    A -> B
+    B -> C -> E
+    C -> D -> E
+    D
+    E -> A -> C
+
+
+BINARY TREE:
+
+    - Estuctura de datos no linear en la cual nodos son organizados en una jerarquia. 
+    En la cual cada nodo no tiene mas de 2 hijos.
+    - La estructura enpieza en un root node.
+    - Los nodos que se encuentran en la mayor profundidad se los llama leaf nodes (nodos hoja).
+    - El tamaño del binary tree es la canditda de nodos que este pose.
+    - La profundidad de la estructura indica la distancia del nodo al root.
+    - La altura del nodo indica que tan por arriba de la capa de leaf nodes se encuentra.
+
+    - los binary trees se organizan de la siguinte manera:
+    El root node tiene que se mayor al hijo de la izquierda, pero menor al de la derecha. Y asi consecutivamente
+    con los hijos de estos nodos.
+    De esta manera el hijo que se encuentre mas a la izquierda va a ser el valor mas pequeño, y el que se encuentre a
+    la derecha el mayor.
+
+    - Tiempo de buscqueda en Binary trees es de O(log n)
+
+    - Se lo usa para: 
+    File Explorers
+    Databases
+    DNS
+    HTML DOM

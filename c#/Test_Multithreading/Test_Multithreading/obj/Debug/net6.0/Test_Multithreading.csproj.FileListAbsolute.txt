@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\bin\Debug\net6.0\Test_Multithreading.exe
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\bin\Debug\net6.0\Test_Multithreading.deps.json
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\bin\Debug\net6.0\Test_Multithreading.runtimeconfig.json
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\bin\Debug\net6.0\Test_Multithreading.dll
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\bin\Debug\net6.0\ref\Test_Multithreading.dll
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\bin\Debug\net6.0\Test_Multithreading.pdb
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.AssemblyInfo.cs
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.dll
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\ref\Test_Multithreading.dll
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.pdb
+C:\Users\PC\Documents\Code\Test_Multithreading\Test_Multithreading\obj\Debug\net6.0\Test_Multithreading.genruntimeconfig.cache

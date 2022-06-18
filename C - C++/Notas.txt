@@ -1,0 +1,3 @@
+Tricks:
+
+	#Define  CANT_ARRAY_ELEMENTS(x) (sizeof(x)/sizeof(x[0]))

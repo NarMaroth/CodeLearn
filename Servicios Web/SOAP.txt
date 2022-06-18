@@ -1,0 +1,27 @@
+<Envelope> es el elemento raiz de cada mansaje SOAP, esta escrito bajo fotmato XML y contiene
+dos elementos hijos:
+	- Un elemeno <Header> (opcional)
+	- Un elemento <Body> (Obligatorio)
+
+
+La Cabezera SOAP <Header>
+
+ Es un sub-elemento opcional sobre SOAP y se utiliza para pazar informacion relacionada con
+la aplicacion de los nodos SOAP van a procesar a lo largo de la via de acceso del mensaje
+ Podemos econtrar desntro del <Header> los siguientes elementos relacionados con la conexion WS
+ <HeaderInfo>
+	<User>Usuario</Usuario>
+	<Token>TokenNumber</Token>
+	<TokenTipe>TokenTipe</TokenTipe>
+ </HeaderInfo>
+
+El Cuerpo SOAP <Body>
+
+ Es un sub-elemento obligatorio sobre SOAP, que contiene informacion dirigida al destinatario
+del mensaje.
+ El elemento del cuerpo y sus elementos hijos asociados se utilizan para intercambiar informacion
+entre el remitente SOAP inicial y el destinatario SOAP final. SOAP define un elemento hijo para
+el cuerpo.
+
+ El elemento <Faul>, que se encuentra dentro del <Body> se utiliza para notificar errores.
+

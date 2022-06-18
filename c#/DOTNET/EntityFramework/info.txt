@@ -1,0 +1,2 @@
+para almacenar una imagen en la base de dato la columna tiene que ser declarada desde
+el modelo como un arry de bytes (byte[])

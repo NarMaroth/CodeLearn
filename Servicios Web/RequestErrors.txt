@@ -1,0 +1,33 @@
+
+- 1xx - Informativo: Significa que una solicitud fue recibida y el proceso continua.
+
+	- 100 - Continue: Cuando el serlver recibio los headers del request y el cliente
+			debe enviar el body.
+
+- 2xx - Exito: La Accion se recibio, comprendio y acepto correctamente.
+
+	- 200 - OK
+	- 201 - Created: El request se a completado y se a creado un nuevo recurso.
+	- 204 - No Content: El request se ha procesado correctamente pero no devuelve
+			ningun contenido.
+
+- 3xx - Redireccion: Esto significa que se deben realizar mas acciones para completar la 
+		solicitud.
+
+	- 301 - Moved Permanently
+
+- 4xx - Error del CLiente: Se cometio un error al realizar la solicutud. Se genero una
+			solicitud invalida.
+
+	- 400 - Bad Request.
+	- 401 - Unauthorized.
+	- 403 - Forbidden: El request fue valido pero el servidor se niega a responder.
+	- 404 - Not Found.
+	- 415 - Unsuported Media Type.
+
+- 5xx - Error del Servidor: El servidor no respondio una solicitud aparentemente valida.
+
+	- 500 - Internal Server Error.
+	- 501 - Not Implemented.
+	- 503 - Service Unavailable
+

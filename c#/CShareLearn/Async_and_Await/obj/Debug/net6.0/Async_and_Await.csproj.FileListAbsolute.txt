@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\bin\Debug\net6.0\Async_and_Await.exe
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\bin\Debug\net6.0\Async_and_Await.deps.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\bin\Debug\net6.0\Async_and_Await.runtimeconfig.json
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\bin\Debug\net6.0\Async_and_Await.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\bin\Debug\net6.0\ref\Async_and_Await.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\bin\Debug\net6.0\Async_and_Await.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.AssemblyInfo.cs
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\ref\Async_and_Await.dll
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.pdb
+C:\Users\PC\Documents\Code\CodeLearn\c#\CShareLearn\Async_and_Await\obj\Debug\net6.0\Async_and_Await.genruntimeconfig.cache
